@@ -1,0 +1,134 @@
+{
+  "total_jobs": 504,
+  "jobs_with_details": 114,
+  "by_source": {
+    "사람인": 390,
+    "원티드": 114
+  },
+  "tech_frequency": {
+    "TypeScript": 114,
+    "AWS": 89,
+    "SQL": 73,
+    "Python": 72,
+    "Kubernetes": 59,
+    "Java": 52,
+    "Docker": 48,
+    "Data Pipeline": 46,
+    "Git": 44,
+    "Kafka": 40,
+    "GCP": 39,
+    "ETL": 37,
+    "PostgreSQL": 36,
+    "Spring": 32,
+    "REST API": 31,
+    "JavaScript": 30,
+    "Redis": 30,
+    "Airflow": 29,
+    "Spark": 27,
+    "MySQL": 26,
+    "MSA": 22,
+    "Kotlin": 22,
+    "CI/CD": 20,
+    "Spring Boot": 20,
+    "BigQuery": 19,
+    "Hadoop": 17,
+    "Django": 17,
+    "FastAPI": 16,
+    "Jenkins": 16,
+    "MongoDB": 15,
+    "Elasticsearch": 15,
+    "Linux": 14,
+    "Flask": 14,
+    "Go": 13,
+    "Message Queue": 13,
+    "GitHub": 13,
+    "EKS": 12,
+    "Terraform": 12,
+    "Flink": 12,
+    "Azure": 11
+  },
+  "qualification_tech_frequency": {},
+  "top_companies": [
+    [
+      "(주)비바리퍼블리카",
+      8
+    ],
+    [
+      "페이타랩(패스오더)",
+      7
+    ],
+    [
+      "(주)올라핀테크",
+      6
+    ],
+    [
+      "(주)한샘",
+      5
+    ],
+    [
+      "(주)미리비트",
+      5
+    ],
+    [
+      "위대한상상(요기요)",
+      5
+    ],
+    [
+      "토스증권(주)",
+      5
+    ],
+    [
+      "(주)레진엔터테인먼트",
+      4
+    ],
+    [
+      "주식회사 이지에스브이에스코리아",
+      4
+    ],
+    [
+      "(주)씨앤에이아이",
+      4
+    ],
+    [
+      "씨아이랩스",
+      4
+    ],
+    [
+      "토스뱅크",
+      4
+    ],
+    [
+      "(주)데이타솔루션",
+      3
+    ],
+    [
+      "(주)케이비헬스케어",
+      3
+    ],
+    [
+      "(주)피비스",
+      3
+    ],
+    [
+      "(주)에이치알비즈코리아",
+      3
+    ],
+    [
+      "(주)캐롯아이",
+      3
+    ],
+    [
+      "(주)인터엑스",
+      3
+    ],
+    [
+      "완드",
+      3
+    ],
+    [
+      "(주)백그라운드",
+      3
+    ]
+  ],
+  "experience_distribution": []
+}
